@@ -1,0 +1,1 @@
+// hello john --> variable prhase has no local scop so it use global variable while user

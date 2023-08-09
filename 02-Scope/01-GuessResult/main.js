@@ -1,0 +1,1 @@
+// hi pete --> no local variable, name has been declared and reassign as pete

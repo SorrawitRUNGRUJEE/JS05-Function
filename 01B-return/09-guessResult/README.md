@@ -8,7 +8,7 @@ console.log(sayHi); // *
 console.log(sayHi(10)); // **
 ```
 
-<!-- ```js
+```js
 function sayHi(name) {
   if (name) {
     alert("Hi " + name);
@@ -19,4 +19,4 @@ function sayHi(name) {
 }
 console.log(sayHi("John")); // ***
 console.log(sayHi()); // ****
-``` -->
+```
